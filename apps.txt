@@ -1,6 +1,2 @@
 game to code
-<<<<<<< HEAD
 fav_movie
-=======
-game to test
->>>>>>> game
